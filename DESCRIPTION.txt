@@ -1,0 +1,6 @@
+Title: PCA vs. PLS Example
+Author: Mohsen Zardadi
+AuthorGitHub: https://github.com/zardadi
+License: MIT
+Tags: machine learning, PCA, PLS
+Type: R
